@@ -1,0 +1,8 @@
+{
+  "name": "AI Email and Message Generator",
+  "description": "College Mini-Project: AI-Powered Email and Message Generator using Google Gemini API, Streamlit/Python architecture, and comprehensive viva preparation kit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
